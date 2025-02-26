@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Mohamed+Islam+Hala;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Mohammed+Islam+Hala;" alt="Typing SVG">
 </h1>
 
 <h3 align="center">A Backend Developer 🚀</h3>
