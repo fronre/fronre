@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **The Next Prediction Word**  
-- 🌱 I’m currently learning **Web Sockets**  
+- 🌱 I’m currently learning **Machin Learning**  
 - 💬 Ask me about **Express.js**  
 - 📫 How to reach me: **islamhala35@gmail.com**  
 
