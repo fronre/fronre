@@ -47,6 +47,9 @@ I also work across **data, IoT and security** (blockchain, big data, embedded) a
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -59,6 +62,7 @@ I also work across **data, IoT and security** (blockchain, big data, embedded) a
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Mishkat (الشهاب)](https://github.com/fronre/quran-school-manager)** | Offline Windows app for running Quran schools and associations: students, attendance, memorization map of the 114 surahs, monthly fees with receipts, encrypted backups. Trialed with one association of 200+ students. | TypeScript · Electron · React · SQLite |
 | **[PT-MCP-Bridge](https://github.com/fronre/PT-MCP-Bridge)** | Describe a network in plain words and your AI plans it, validates it and builds it in Cisco Packet Tracer, through an MCP server. 295+ commits, v0.12.0, MIT. | Python · MCP |
 | **[Clark–Wilson Modeling Tool](https://github.com/fronre/clark-wilson-tool)** | Interactive tool that checks a system model against the Clark–Wilson integrity model. Clean Architecture backend (rules as Strategy classes), FastAPI + Pydantic DTOs, typed TypeScript frontend, LLM analysis and a Colab workflow. | **FastAPI** · Python · TypeScript |
 | **[Procura](https://github.com/fronre/Procura)** | TypeScript web app built with Vite. | TypeScript · Vite |
